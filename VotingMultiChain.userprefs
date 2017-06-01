@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{33F26ADF-6271-47CC-8101-AD50A392EFD9}|Default">
+  <MonoDevelop.Ide.ItemProperties.VotingMultiChain PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VotingMultiChain/MainWindow.cs">
+    <Files>
+      <File FileName="VotingMultiChain/Dialog.cs" Line="9" Column="13" />
+      <File FileName="VotingMultiChain/Program.cs" Line="11" Column="1" />
+      <File FileName="VotingMultiChain/MainWindow.cs" Line="73" Column="5" />
+      <File FileName="VotingMultiChain/LoginWindow.cs" Line="62" Column="1" />
+      <File FileName="VotingMultiChain/MainStationWindow.cs" Line="23" Column="23" />
+      <File FileName="VotingMultiChain/VotingWindow.cs" Line="69" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
