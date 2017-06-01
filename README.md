@@ -14,5 +14,5 @@ I have experimented a prototype application using MultiChain by following the tu
 Instructions on running this application:
 https://bitbucket.org/ComputingSEP/2017-sep-05-blockchain 
 
-I am using a C# library that is provided from MultiChain in order to run the application.
-Original library: https://github.com/PbjCloud/MultiChainLib
+I am using a C# library that is provided from MultiChain in order to run the application: 
+https://github.com/PbjCloud/MultiChainLib
