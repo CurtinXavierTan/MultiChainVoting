@@ -11,6 +11,8 @@ I have experimented a prototype application using MultiChain by following the tu
 1. https://samsclass.info/141/proj/pMult1.htm
 2. https://samsclass.info/141/proj/pMult2.htm
 
+I have provided screenshots to show the steps involved for running MultiChain using MonoDevelop IDE.
+
 Instructions on running this application:
 https://bitbucket.org/ComputingSEP/2017-sep-05-blockchain 
 
